@@ -1,2 +1,2 @@
-# first
-我的第一个github相关
+# photo
+实现图片擦拭清晰的动画
